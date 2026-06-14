@@ -6,13 +6,14 @@ Bu depo (repository), IBM ve Coursera iş birliğiyle sunulan **Python for Data 
 
 ---
 
-## 📜 Sertifikam & Çalışma Notlarım
+### 📜 Sertifikam & Çalışma Notlarım
 
-Programı başarıyla tamamlayarak aldığım sertifikaya ve kurs boyunca kullandığım temel Python özet sayfasına aşağıdaki bağlantılardan ulaşabilirsiniz:
+Programı başarıyla tamamlayarak aldığım sertifikaya ve kurs boyunca kullandığım temel Python özet sayfasına aşağıdan ulaşabilirsiniz:
 
 * 📄 **Sertifikam (PDF):** [Coursera IBM Python Sertifikası](./Coursera%208PEY11747PCR.pdf)
-* 📝 **Python Özet Sayfası (PDF):** [Python Cheat Sheet - The Basics Coursera.pdf](./Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
 
+### 📝 Python Özet Sayfası (Cheat Sheet)
+![Python Özet Sayfası](./Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.png)
 ## 🧠 Bu Kursta Neler Öğrendim?
 
 Kurs boyunca veri bilimi ve yapay zekanın temeli olan Python dilinde şu konuları uygulamalı olarak işledim:
