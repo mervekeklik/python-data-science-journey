@@ -12,7 +12,6 @@ Programı başarıyla tamamlayarak aldığım sertifikaya ve kurs boyunca kullan
 
 * 📄 **Sertifikam (PDF):** [Coursera IBM Python Sertifikası](./Coursera%208PEY11747PCR.pdf)
 * 📝 **Python Özet Sayfası (PDF):** [Python Cheat Sheet - The Basics Coursera.pdf](./Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
----
 
 ## 🧠 Bu Kursta Neler Öğrendim?
 
